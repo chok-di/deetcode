@@ -1,3 +1,4 @@
+#time complexity: nlog(n)
 class Solution:
     """
     @param intervals: an array of meeting time intervals
